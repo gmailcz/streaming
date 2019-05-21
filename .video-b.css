@@ -15,7 +15,6 @@ a.button.m {margin: 0 95px 0 0;font-size: 0;background-color: inherit;padding: 0
 .sharep{position:absolute;cursor:pointer;left:10px;z-index: 99999;}
 #channelif{width: 50%;margin: auto;padding-top: 100px;}
 #channelif textarea{display:table;position:relative;width:-webkit-fill-available;color:#555;text-align:left;overflow-y:hidden;border:0;margin:auto;overflow:hidden;resize: none;}
-<script>location.href="//yalla-shoot-trend.blogspot.com"</script>
 .cbtn{color:#fff;border:0;font-family:Cairo,Segoe UI;text-align:center;height:35px;padding:0 10px;background-color:#ac0404;cursor:pointer;line-height:35px;margin:10px auto;font-weight: bold;}
 #channelif p{margin: 10px auto;line-height: 45px;height: 45px;}
 .sptitle{color:#fff;margin:10px auto;height:45px;line-height:45px;}
@@ -33,7 +32,7 @@ iframe{display:block}
 .sharet{background-color:#ac0404}
 .video-con{background-color:#000}
 #sharec,.sharep{left:0;top:10px}
-#sharex{width:initial;height:450px;right:10px;left:10px;top:60px}
+#sharex{width:initial;height:500px;right:10px;left:10px;top:60px}
 .video-b{background-color:#e0e0e0;padding:10px}
 ::-webkit-scrollbar{height: 5px;}
 ::-webkit-scrollbar-thumb{background-color: #ac0404;}
