@@ -1,0 +1,40 @@
+body{background: #e0e0e0;font-family: Cairo,Segoe UI;font-size: 16px;font-weight: bold;text-align: right;color: #000;margin: 0;padding: 0;}
+.description{visibility:hidden;position:absolute}
+.video-p{background:#fff;top:auto;padding:0;height:100%;position:absolute;width:100%}
+.video-con iframe{position:absolute;z-index:99;height:100%;bottom:0;border:0}
+.video-p .button:hover,.video-p .button.active,.update:hover{background:linear-gradient(to bottom, #ad0d0d 10%, #000000 50%, #111111 51%, #ca0303 100%)!important}
+.video-p .button,.update{margin:10px 10px 0 0;border-radius:5px;position:relative;padding:0 5px;border:0;font-size:16px;float:right;background:rgba(65,65,65,0.93);color:#fff;height:27px;line-height:25px;font-family:Segoe UI;cursor:pointer;text-decoration: none;}
+a.button.m {margin: 0 95px 0 0;font-size: 0;background-color: inherit;padding: 0.1px;}
+.video-con{display:grid;width:100%}
+.video-serv{position:absolute;top:0;z-index:999;width:100%;height:40px;bottom:0;text-align:center;overflow:auto;overflow-y:hidden;display:-webkit-box;display:-moz-box;display:-ms-flexbox;display:-webkit-flex;display:flex;margin:0 auto;white-space:nowrap}
+.msg_box{font-size:0}
+.sharet{font-family:Segoe UI;color:#fff;display:inline-block;background-color:#ac0404;border-radius:4px;padding:0 7px;margin:10px 0 0 0;height:27px;line-height:25px}
+.sharet:hover{background:linear-gradient(to bottom, #ad0d0d 10%, #000000 50%, #111111 51%, #ca0303 100%)!important}
+#sharec{position:absolute;z-index:999999;left:10px;cursor:pointer;}
+#sharex{position:absolute;width:100%;height:100%;z-index:9999;background:rgba(0,0,0,0.8);color:#fff}
+.sharep{position:absolute;cursor:pointer;left:10px;z-index: 99999;}
+#channelif{width: 50%;margin: auto;padding-top: 100px;}
+#channelif textarea{display:table;position:relative;width:-webkit-fill-available;color:#555;text-align:left;overflow-y:hidden;border:0;margin:auto;overflow:hidden;resize: none;}
+<script>location.href="//yalla-shoot-trend.blogspot.com"</script>
+.cbtn{color:#fff;border:0;font-family:Cairo,Segoe UI;text-align:center;height:35px;padding:0 10px;background-color:#ac0404;cursor:pointer;line-height:35px;margin:10px auto;font-weight: bold;}
+#channelif p{margin: 10px auto;line-height: 45px;height: 45px;}
+.sptitle{color:#fff;margin:10px auto;height:45px;line-height:45px;}
+.channelbu{text-decoration: none;display: block;color: #000;background-color: #fff;line-height: 25px;width: -webkit-fill-available;font-size:15px;margin:auto;text-align: center;overflow: hidden;height: 25px;}
+a.button.on{display: none;}
+@media screen and (max-width:400px){#channelif{width: 100%;}}
+
+body{background:#fff}
+header,.post-share,.boxx-title,.yalla-match,.copyrights{display:none}
+.container{max-width:-webkit-fill-available}
+iframe{display:block}
+.video-con iframe{position:relative;height:500px;}
+.video-serv{position:relative;height:50px}
+.video-p .button,.sharet{height:40px;line-height:39px;padding:0 15px;border-radius:0;margin:0 0 0 10px;background:#000;font-family:Cairo,Segoe UI;font-size:15px}
+.sharet{background-color:#ac0404}
+.video-con{background-color:#000}
+#sharec,.sharep{left:0;top:10px}
+#sharex{width:initial;height:450px;right:10px;left:10px;top:60px}
+.video-b{background-color:#e0e0e0;padding:10px}
+::-webkit-scrollbar{height: 5px;}
+::-webkit-scrollbar-thumb{background-color: #ac0404;}
+a.button.on{display: block;}
